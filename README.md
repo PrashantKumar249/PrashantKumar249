@@ -11,7 +11,7 @@ engines, multi-role access control, workflow automation.
 - [Job Portal](link) — three-tier RBAC system in Laravel
 - [Quiz & Exam Platform](link) — timed exam engine with server-side auto-submission
 - [Food Ordering System](link) — full-stack ordering platform with admin dashboard
-- **[AI-Powered Resume Matcher]** — AI-powered resume analysis platform with PDF parsing, job matching, skill-gap analysis, interview question generation, and multi-  provider LLM support (Gemini, OpenAI, Claude).
+- [AI-Powered Resume Matcher]  — AI-powered resume analysis platform with PDF parsing, job matching, skill-gap analysis, interview question generation, and multi-  provider LLM support (Gemini, OpenAI, Claude).
 
 
 Open to backend and full-stack SDE roles. Based in Pune.
