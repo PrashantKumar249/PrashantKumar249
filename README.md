@@ -7,7 +7,7 @@ engines, multi-role access control, workflow automation.
 **Current stack:** PHP · Laravel · MySQL · REST APIs · JavaScript · AJAX · AI Integration (Gemini, OpenAI, Claude)
 
 **Recent projects:**
-- [Smart College Timetable System](link) — constraint-based scheduling engine in vanilla PHP
+- [Smart College Timetable System]([link](https://github.com/PrashantKumar249/Time_table_project)) — constraint-based scheduling engine in vanilla PHP
 - [Job Portal](link) — three-tier RBAC system in Laravel
 - [Quiz & Exam Platform](link) — timed exam engine with server-side auto-submission
 - [Food Ordering System](link) — full-stack ordering platform with admin dashboard
