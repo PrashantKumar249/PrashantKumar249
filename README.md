@@ -8,10 +8,10 @@ engines, multi-role access control, workflow automation.
 
 **Recent projects:**
 - [Smart College Timetable System](https://github.com/PrashantKumar249/Time_table_project) — constraint-based scheduling engine in vanilla PHP
-- [Job Portal](link) — three-tier RBAC system in Laravel
-- [Quiz & Exam Platform](link) — timed exam engine with server-side auto-submission
-- [Food Ordering System](link) — full-stack ordering platform with admin dashboard
-- [AI-Powered Resume Matcher]  — AI-powered resume analysis platform with PDF parsing, job matching, skill-gap analysis, interview question generation, and multi-  provider LLM support (Gemini, OpenAI, Claude).
+- [Job Portal](https://github.com/PrashantKumar249/Job_portal_project) — three-tier RBAC system in Laravel
+- [Quiz & Exam Platform](https://github.com/PrashantKumar249/quiz-panel) — timed exam engine with server-side auto-submission
+- [Food Ordering System](https://github.com/PrashantKumar249/Food_ordering_web) — full-stack ordering platform with admin dashboard
+- [AI-Powered Resume Matcher](https://github.com/PrashantKumar249/Resume_matcher)  — AI-powered resume analysis platform with PDF parsing, job matching, skill-gap analysis, interview question generation, and multi-  provider LLM support (Gemini, OpenAI, Claude).
 
 
 Open to backend and full-stack SDE roles. Based in Pune.
